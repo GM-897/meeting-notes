@@ -25,8 +25,8 @@ Ensure you have *Node.js* and *npm* installed on your machine. You can download 
 1. *Clone the Repository*: Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/AnshTanwar/meeting-notes-main.git
-   cd meeting-notes-main
+   git clone https://github.com/GM-897/meeting-notes.git
+   cd meeting-notes
    ```
 
 2. *Install Dependencies*: Run the following command to install the project dependencies.
