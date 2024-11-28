@@ -1,0 +1,54 @@
+{
+    "data": {
+        "actions": [
+            {
+                "C": [
+                    "Bankim Brahmbat"
+                ],
+                "DRI": "Viral Tripathi",
+                "Deadline": "30/11/2023",
+                "I": [
+                    "Siddharth Shah",
+                    "Mohit Rao",
+                    "Manish Modi",
+                    "Jigar Bhatt",
+                    "Uday",
+                    "Neha",
+                    "Mayank Sanghi"
+                ],
+                "Importance": "H",
+                "description": "Prepare and distribute minutes of the 19th Annual General Meeting."
+            },
+            {
+                "C": [],
+                "DRI": "Viral Tripathi",
+                "Deadline": "15/12/2023",
+                "I": [
+                    "Bankim Brahmbat"
+                ],
+                "Importance": "H",
+                "description": "File necessary documentation related to the AGM with relevant authorities."
+            },
+            {
+                "C": [
+                    "Bankim Brahmbat"
+                ],
+                "DRI": "Viral Tripathi",
+                "Deadline": "",
+                "I": [],
+                "Importance": "M",
+                "description": "Begin planning for the 20th Annual General Meeting."
+            }
+        ],
+        "analysis": {
+            "counterpoints": [],
+            "proposed_ideas": []
+        },
+        "summary": {
+            "action_items": "",
+            "discuss_steps": "Reviewed 2019-2020 financials, approved director reappointment.",
+            "meeting_outcomes": "Financial statements adopted, Bankim Brahmbat reappointed as director."
+        }
+    },
+    "status": "success"
+}
