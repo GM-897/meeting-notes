@@ -1,12 +1,9 @@
 #### Website Link: https://meeting-notes-main.vercel.app/
 #### Google Colab Demo: https://colab.research.google.com/drive/1BWbhKEIG9HMczS0sl8ejKHhrm-KAuziT?usp=sharing
-
-![image](https://github.com/user-attachments/assets/40b19694-6c03-4b29-aab2-7e285164d949)
-![image](https://github.com/user-attachments/assets/f66c1cac-f891-4a8f-98d7-5ff2d394a1f9)
-![image](https://github.com/user-attachments/assets/b2fce49b-0c2a-4836-a65a-315946df6fd1)
-Output Continued
-
-![image](https://github.com/user-attachments/assets/80c9fbb6-bbd3-4a54-86ae-af80628aed8b)
+<img width="1440" alt="Screenshot 2024-12-01 at 4 23 22 PM" src="https://github.com/user-attachments/assets/522dd8e3-5589-4b89-944d-0f3d4cdebe67">
+Output
+<img width="1440" alt="Screenshot 2024-12-01 at 4 17 42 PM" src="https://github.com/user-attachments/assets/4420facd-c9e7-4231-9704-940cce1800d9">
+<img width="1440" alt="Screenshot 2024-12-01 at 4 17 50 PM" src="https://github.com/user-attachments/assets/0d82bc2b-2537-4b3e-ae92-86bcbabfdd7d">
 
 
 
