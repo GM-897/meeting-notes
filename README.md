@@ -1,5 +1,9 @@
 #### Website Link: https://meeting-notes-main.vercel.app/
 #### Google Colab Demo: https://colab.research.google.com/drive/1BWbhKEIG9HMczS0sl8ejKHhrm-KAuziT?usp=sharing
+
+# About Project
+This project leverages AssemblyAI for multi-speaker transcription and analysis of meeting recordings. It extracts speaker-labeled dialogues, summarizes key discussions, identifies counterpoints and proposed ideas, and assigns action items with responsibilities. The system utilizes a generative model to generate structured outputs, ensuring clear meeting insights. The final result is a comprehensive, AI-powered meeting analysis for improved productivity and decision-making.
+
 <img width="1440" alt="Screenshot 2024-12-01 at 4 23 22 PM" src="https://github.com/user-attachments/assets/522dd8e3-5589-4b89-944d-0f3d4cdebe67">
 Output
 <img width="1440" alt="Screenshot 2024-12-01 at 4 17 42 PM" src="https://github.com/user-attachments/assets/4420facd-c9e7-4231-9704-940cce1800d9">
